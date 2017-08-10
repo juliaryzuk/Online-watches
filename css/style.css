@@ -1,0 +1,12 @@
+#app{
+color: rgb(0, 204, 255);
+background-color: black;
+border:15px solid rgb(0, 204, 255);
+border-bottom: 70px solid;
+text-shadow: 2px 2px rgb(0, 25, 51);
+font-size: 20px;
+text-align: center;
+height: 350px;
+width: 700px;
+border-image: url('../image/1.jpg')30 stretch;
+}
